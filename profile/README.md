@@ -6,4 +6,6 @@ To quickly add your existing repo and push here as a remote named 'org'
   git remote add org https://github.com/weewx-contrib/YOURREPONAME.git
   git remote -v
   git push -u org main
+
+  or use the create new repository => import feature
 ``` 
